@@ -380,3 +380,6 @@ function! VisualSelection(direction, extra_filter) range
     let @/ = l:pattern
     let @" = l:saved_reg
 endfunction
+
+set runtimepath+=~/.vim_runtime
+source ~/.vim_runtime/vimrcs/plugins_config.vim
