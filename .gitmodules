@@ -43,3 +43,12 @@
 [submodule "my_plugins/vim-yankstack"]
 	path = my_plugins/vim-yankstack
 	url = https://github.com/maxbrunsfeld/vim-yankstack.git
+[submodule "themes/gruvbox"]
+	path = themes/gruvbox
+	url = https://github.com/morhetz/gruvbox.git
+[submodule "themes/peaksea"]
+	path = themes/peaksea
+	url = https://github.com/vim-scripts/peaksea.git
+[submodule "themes/vim-irblack"]
+	path = themes/vim-irblack
+	url = https://github.com/wesgibbs/vim-irblack.git
