@@ -1,0 +1,45 @@
+[submodule "my_plugins/YouCompleteMe"]
+	path = my_plugins/YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe.git
+[submodule "my_plugins/bufexplorer"]
+	path = my_plugins/bufexplorer
+	url = https://github.com/jlanzarotta/bufexplorer.git
+[submodule "my_plugins/chuck.vim"]
+	path = my_plugins/chuck.vim
+	url = https://github.com/wilsaj/chuck.vim.git
+[submodule "my_plugins/lightline.vim"]
+	path = my_plugins/lightline.vim
+	url = https://github.com/itchyny/lightline.vim.git
+[submodule "my_plugins/nerdtree"]
+	path = my_plugins/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "my_plugins/nginx.vim"]
+	path = my_plugins/nginx.vim
+	url = https://github.com/vim-scripts/nginx.vim.git
+[submodule "my_plugins/rust.vim"]
+	path = my_plugins/rust.vim
+	url = https://github.com/rust-lang/rust.vim.git
+[submodule "my_plugins/tabular"]
+	path = my_plugins/tabular
+	url = https://github.com/godlygeek/tabular.git
+[submodule "my_plugins/vim-commentary"]
+	path = my_plugins/vim-commentary
+	url = https://github.com/tpope/vim-commentary.git
+[submodule "my_plugins/vim-cpp-enhanced-highlight"]
+	path = my_plugins/vim-cpp-enhanced-highlight
+	url = https://github.com/octol/vim-cpp-enhanced-highlight.git
+[submodule "my_plugins/vim-flake8"]
+	path = my_plugins/vim-flake8
+	url = https://github.com/nvie/vim-flake8.git
+[submodule "my_plugins/vim-go"]
+	path = my_plugins/vim-go
+	url = https://github.com/fatih/vim-go.git
+[submodule "my_plugins/vim-markdown"]
+	path = my_plugins/vim-markdown
+	url = https://github.com/plasticboy/vim-markdown.git
+[submodule "my_plugins/vim-repeat"]
+	path = my_plugins/vim-repeat
+	url = https://github.com/tpope/vim-repeat.git
+[submodule "my_plugins/vim-yankstack"]
+	path = my_plugins/vim-yankstack
+	url = https://github.com/maxbrunsfeld/vim-yankstack.git
